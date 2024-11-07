@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^10.2.2",
+    "qr-image": "3.2.0"
+  },
+  "name": "web-development-projects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maitreyee",
+  "license": "ISC",
+  "description": ""
+}
